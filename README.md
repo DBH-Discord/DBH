@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://discord.gg/5dSRw9mxp3" target="blank"><img src="https://raw.githubusercontent.com/elmarcz/DBH/main/src/DBH.png" width="160" alt="Dot Logo" /></a>
+  <a href="https://discord.gg/5dSRw9mxp3" target="blank"><img src="Src/DBH.png" width="160" alt="Dot Logo" /></a>
   <h1 align="center" href="https://elmarcz.github.io/Cryptos/">DBH</h1>
 </p>
 <p align="center">Buy your 100% customised discord bot at a great price!</p>
