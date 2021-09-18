@@ -33,7 +33,7 @@ DBH is a service for the creation and hosting of bots. There are different plans
 ` + Support`
 
 ## 🏆 What can bots do?
-` Welcome images ` ` Goodbye messages ` ` Role commands ` ` Support via DM ` ` Role-playing commands +18 ` ` Command to view people's avatars ` ` Commands for suggestions ` ` Reminders ` ` Commands to ban people ` ` Delete messages ` ` Nuke Command ` AND ` Facility for staff to send messages to people by dm `
+` Welcome images ` ` Goodbye messages ` ` Role commands ` ` Support via DM ` ` Role-playing commands +18 ` ` Command to view people's avatars ` ` Commands for suggestions ` ` Reminders ` ` Commands to ban people ` ` Delete messages ` ` Nuke Command ` ` Facility for staff to send messages to people by dm ` ` And a more things `
 
 ## 🪓 Contact me to get your 100% customised bot
 
